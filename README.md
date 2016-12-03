@@ -1,0 +1,6 @@
+# bookdemo
+AngularJS支持通过在单个页面上的多个视图的单页应用
+hello.html是一个简单的欢迎页面
+form.html 是一个用bootstrap做的简单表单，三个按钮的设置可以理解双向数据绑定
+用angularjs的路由机制angularjs route，实现单个页面上的多个视图显示
+其中，加入了一些动画 angularjs animate
